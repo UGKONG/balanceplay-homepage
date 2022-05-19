@@ -9,4 +9,4 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static(__dirname));
 
-app.listen(80, () => console.log('server start!!'));
+app.listen(8001, () => console.log('server start!!'));
