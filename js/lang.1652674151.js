@@ -144,7 +144,7 @@ $.lang['ko'] = {
     "editor.meta.banwords.info.2":              ' 금지어를 삭제해주세요.',
     "editor.meta.title.info":                   "&apos;사이트 제목&apos;은 <br>[사이트 설정] - [브라우저 타이틀] 메뉴에서 <br>수정이 가능합니다.",
     "editor.meta.description.placeholder":      "내 사이트를 설명하는 글을 적어주세요.",
-    "editor.meta.keywords.placeholder":          "ex) 웹사이트, 크리에이터링크, 디자인",
+    "editor.meta.keywords.placeholder":          "ex) 웹사이트, 디자인",
     "editor.meta.add":                          "항목 추가",
     "editor.meta.config.title":                 "메타 태그",
     "editor.meta.apply.same":                   "모든 페이지에 일괄적용",
@@ -166,12 +166,12 @@ $.lang['ko'] = {
     "editor.meta.onepage-pagemeta-modal.Text":"<span class='text-centermodal pagemeta-modal'>페이지별 메타태그 설정은<br> 멀티 페이지에서만 이용할 수 있습니다.</span>",
     "editor.meta.pagemeta.sameapply.title":       "메타태그 일괄적용",  
     "editor.meta.pagemeta.sameapply.content":     "메뉴에 적용된 메타태그 정보를<br>다른 모든 페이지에 일괄 적용하시겠습니까?",      
-    "config.meta.description":                    "크리에이터링크에서는 HTML을 몰라도 누구나 직접 반응형 홈페이지를 무료로 제작 할 수 있습니다. 홈페이지 제작, 홈페이지 만들기",      
-    "config.meta.keywords":                       "홈페이지 제작, 홈페이지 만들기, 무료 홈페이지, 포트폴리오 사이트, 크리에이터링크, 반응형웹, 반응형 홈페이지",   
-    "config.meta.metaplus.search.seo.robots-noIndex":    "사이트 검색 차단 설정은 ",        
-    "config.meta.metaplus.search.seo.webmaster-Option":    "웹마스터도구는 ",        
-    "config.meta.metaplus.search.seo.notice":     "[마케팅] - [검색 등록]에서 설정이 가능합니다.",      
-    "config.meta.metaplus.search.seo.settings.webmasterOption": "웹마스터도구는 [마케팅] - [검색 등록]에서 설정이 가능합니다.",      
+    "config.meta.description":                    "주식회사 밸런스플레이는 ‌아동-청소년 헬스케어 플랫폼 및 운동서비스 개발 업체로 개인의 특성(성별, 연령, 신체구성, 감각기능, 운동기능, 심리 및 기질 등)과 ICT 기술을 이용한 건강검사 시스템을 이용하여 사용자의 개인 상태를 개선 시킬 수 있는 개인 맞춤형 서비스와 제품을 개발하고 기획하고 있습니다.",
+    "config.meta.keywords":                       "밸런스플레이",   
+    "config.meta.metaplus.search.seo.robots-noIndex":    "",        
+    "config.meta.metaplus.search.seo.webmaster-Option":    "",        
+    "config.meta.metaplus.search.seo.notice":     "",      
+    "config.meta.metaplus.search.seo.settings.webmasterOption": "",      
 
     "editor.meta.shoppingmall.guide.title":       "쇼핑몰 이용 가이드",   
     "editor.meta.shoppingmall.guide.step.1":      "1. 갤러리 추가",    
@@ -443,8 +443,8 @@ $.lang['ko'] = {
     "editor.guide.steps.7":                    "편집 후 멋지게 완성된 사이트를 게시해 모두에게 자랑하세요.",
 
     "editor.browse.download":                   "각 아이콘 클릭시 해당 브라우저의 다운로드 페이지로 이동합니다.",
-    "editor.browse.update":                     "크리에이터링크는 최신버전의 브라우저에 최적화 되어있습니다.<br>에디터를 사용하기 위해서는 최신 브라우저 업데이트를 권장합니다.",
-    "editor.browse.chrome.title":               "크리에이터링크 편집은 크롬 브라우저에 최적화 되어있습니다.",
+    "editor.browse.update":                     "",
+    "editor.browse.chrome.title":               "",
     "editor.browse.chrome.content":             "인터넷 익스플로러에서는 편집 기능을 지원하지 않습니다.<br>편집 하실 때는 크롬 브라우저를 이용해주세요.",
     "editor.browse.chrome.download":            "크롬 다운로드",
     "editor.publish.info":                      "현재 편집하신 내용이 다음 주소에 적용됩니다.",
@@ -1266,14 +1266,14 @@ $.lang['ko'] = {
     "board.access-only-admin":                  "관리자만",
     "board.access-all-label":                   "모두",
     "board.access-members-label":               "회원",
-    "board.access-members-cr-label":            "크리에이터링크 회원",
+    "board.access-members-cr-label":            "",
     "board.secret-password":                    "비밀번호 입력",
 
     "board.access-nonmembers-label":            "비회원",
     "board.access-group-label":                 "그룹",
     "board.access-adult-label":                 "성인인증 회원 전용",
     "board.access-all-info":                    "비회원 글쓰기를 허용합니다<br>",
-    "board.access-members-info":                "크리에이터링크 회원만 글쓰기를 허용합니다<br>",
+    "board.access-members-info":                "",
     "board.access-group-info":                  "내가 승인한 회원만 글쓰기를 허용합니다",
     "board.add-group":                          "그룹 추가",
     "board.edit-group-name":                    "그룹명수정",
@@ -1363,7 +1363,7 @@ $.lang['ko'] = {
     "config.comment-not-found":                 "댓글 정보가 없습니다",
     "config.confirm-delete-comment":            "선택한 댓글을 삭제 하시겠습니까?",
     "config.comment":                           "등록",
-    "config.creatorlink":                       "크리에이터링크 회원",
+    "config.creatorlink":                       "",
     "config.creatorlink.text-adm":              "관리자 로그인<svg viewBox=\"0 0 6 8\" width=\"6\" height=\"8\"><polygon points=\"2 0 0 0 4 4 0 8 2 8 6 4 \"/></svg>",
     "config.creatorlink.text-adm2":             "관리자",
     "config.anonymous":                         "비회원",
@@ -1391,8 +1391,8 @@ $.lang['ko'] = {
     "page.main.intro-subtitle":                 "<p>html을 몰라도 직접 만들 수 있는 <strong>모바일친화(반응형) 웹사이트 빌더</strong>입니다.</p>",
     "page.member.login-modal.reId":             "로그인 상태 유지",
     "page.member.login-modal.password-reset":   "비밀번호 찾기",
-    "page.member.login-modal.jointext":         "크리에이터링크가 처음이신가요?",
-    "page.member.login-modal.jointext2":        "아직 크리에이터링크 회원이 아니신가요?",
+    "page.member.login-modal.jointext":         "",
+    "page.member.login-modal.jointext2":        "",
     "page.member.login-modal.join":             "가입하기",
     "page.member.login-modal.join2":            "회원가입",
     "page.member.password-reset.title":         "비밀번호 재수정",
@@ -1485,11 +1485,11 @@ $.lang['ko'] = {
     "board.category.cts.template.3":            "※ 아래의 정보를 같이 남겨주시면 빠르고 정확한 안내가 가능합니다.<br><br>* 사이트 주소:<br>* 결제일:<br>* 요금제:<br><br><br><br>",
     "board.category.cts.template.4":            "※ 결제일로부터 7일 이내에 환불 요청을 하는 경우 100% 환불이 가능합니다.<br>※ 7일이 지난 경우 사용 개월 수 금액과 수수료(30%)를 제외한 금액이 환불됩니다.<br><br>* 사이트 주소:<br>* 결제일:<br>* 요금제:<br>* 결제 금액:<br>* 환불 사유:<br><br>가상 계좌로 결제하셨던 경우 환불 받을 계좌 정보를 같이 알려주세요.<br><br>은행:<br>예금주:<br>계좌번호:<br><br><br><br>",
     "board.category.cts.template.5":            "※ 세금 계산서 발행은 가상 계좌로 결제 시 현금 영수증을 미발급 받으신 분만 발행이 가능합니다.<br>※ 카드 영수증 및 현금 영수증은 세금 계산서와 동일한 효력을 가지고 있으니 참고바랍니다.<br><br>* 사이트 주소:<br>* 결제일:<br>* 요금제:<br>* 결제 금액:<br><br>* 담당자: <br>* 회사명:<br>* 연락처:<br>* 이메일 주소:<br>* 사업자 등록증: 이미지로 첨부해 주세요.<br><br><br><br>",
-    "board.category.cts.template.6":            "※ 아래의 정보를 같이 남겨주시면 빠르고 정확한 안내가 가능합니다.<br><br>* 크리에이터링크 사이트 주소:<br>* 연결된 도메인 주소:<br>* 사용하고 있는 브라우저(크롬, IE11, 사파리 등):<br>* 메일 연결 요청 시 MX레코드 정보를 텍스트로 붙여넣어주세요.<br><br><br><br>",
+    "board.category.cts.template.6":            "",
     "board.category.cts.template.7":            "※ 아래의 정보를 같이 남겨주시면 빠르고 정확한 안내가 가능합니다.<br><br>* 사이트 주소:<br>* 사용하고 있는 브라우저(크롬, IE11, 사파리 등):<br>* 오류가 발생하는 위치(메뉴, 블럭 위치 등):<br>* 증상 재현 방법:<br><span style='padding-left:9px;'></span>(소스를 수정하여 발생한 경우 수정한 소스 코드의 위치와 내용을 자세히 알려주세요.)<br><br><br><br>",
-    "board.category.cts.template.8":            "※ 아래의 정보를 같이 남겨주시면 빠르고 정확한 안내가 가능합니다.<br><br><span style='font-weight: bold;'>[사이트 이전 주의사항]</span><br>* 사이트 이전은 요금제가 적용된 사이트만 가능합니다.<br>* 사이트 이전 시 요금제도 같이 이동됩니다.<br>* 사이트 이전 시 자동요금 결제가 미지원되어 요금제 연장 시에는 새로 결제를 해주어야 합니다.<br>* 사이트 이전 시 되돌리기 기능은 초기화되어 이전되니 이 점 유의해주시기 바랍니다.<br>* 사이트 이전 작업 중 해당 사이트 편집모드에 접속하거나 설정을 변경하면 데이터가 정상적으로 <br><span style='padding-left:9px;'></span>이동이 되지 않아 문제가 발생할 수 있습니다. 이전 작업이 완료되기 전까지 사이트 편집 모드 접속 <br><span style='padding-left:9px;'></span>또는 설정을 변경하지 말아주세요.<br><br><span style='font-weight: bold;'>[필수 정보]</span><br>* 이전할 사이트 주소:<br>* 사이트 이전 받을 크리에이터링크 계정 ID:<br><br><br><br>",
+    "board.category.cts.template.8":            "※ 아래의 정보를 같이 남겨주시면 빠르고 정확한 안내가 가능합니다.<br><br><span style='font-weight: bold;'>[사이트 이전 주의사항]</span><br>* 사이트 이전은 요금제가 적용된 사이트만 가능합니다.<br>* 사이트 이전 시 요금제도 같이 이동됩니다.<br>* 사이트 이전 시 자동요금 결제가 미지원되어 요금제 연장 시에는 새로 결제를 해주어야 합니다.<br>* 사이트 이전 시 되돌리기 기능은 초기화되어 이전되니 이 점 유의해주시기 바랍니다.<br>* 사이트 이전 작업 중 해당 사이트 편집모드에 접속하거나 설정을 변경하면 데이터가 정상적으로 <br><span style='padding-left:9px;'></span>이동이 되지 않아 문제가 발생할 수 있습니다. 이전 작업이 완료되기 전까지 사이트 편집 모드 접속 <br><span style='padding-left:9px;'></span>또는 설정을 변경하지 말아주세요.<br><br><span style='font-weight: bold;'>[필수 정보]</span><br>* 이전할 사이트 주소:<br>* 사이트 이전 받을 계정 ID:<br><br><br><br>",
     "board.category.cts.template.9":            "※ 프리미엄 고객지원은 요금제를 이용하는 사이트에만 지원됩니다.<br><br>* 사이트 주소:<br>* 사용하고 있는 브라우저(크롬, IE11, 사파리 등):<br><br><br><br>",
-    "board.category.cts.template.10":           "※ 크리에이터링크를 이용하시면서 불편하거나 필요한 부분들이 있다면 편하게 알려주세요. 알려주신 내용들을 바탕으로 더욱 편리한 크리에이터링크가 되겠습니다.<br><br><br><br>",
+    "board.category.cts.template.10":           "",
     "board.category.cts.template.11":           "※ 다른 궁금한 점들이 있다면 편하게 문의해주세요.<br><br><br><br>",
 
     // custom site request
@@ -1583,7 +1583,7 @@ $.lang['ko'] = {
     "config.modal.login":                       "로그인",
     "config.modal.fblogin":                     "<i class='fa fa-facebook'></i> 페이스북으로 로그인",
     "config.modal.fbjoin":                      "<i class='fa fa-facebook'></i> 페이스북으로 가입",
-    "config.modal.gotoHome":                    "크리에이터링크 홈 가기",
+    "config.modal.gotoHome":                    "",
     "config.modal.emailSend":                   "인증메일 전송",
     "config.modal.name":                        "이름",
     "config.modal.name.nonmem":                 "이름",
@@ -1595,11 +1595,11 @@ $.lang['ko'] = {
     "config.modal.others-login.2":              " 의 연결을 강제 해제하고 편집 모드로 접속하시겠습니까?",
 
     "config.modal.fblogin.error.1":             "페이스북 개인정보처리방침 정책 변경으로 인하여 페이스북 로그인이 안되고 있습니다. <br class=\"hidden-xs\">현재 페이스북으로 수정 요청을 한 상태이며, 빠른 시일안에 정상적으로 로그인이 이용할 수 <br>있도록 노력하겠습니다.<br><br>페이스북 계정으로 로그인하여 이용을 하셨던 경우에는 아래와 같은 방법으로 비밀번호를 <br>생성하여 로그인해주시기 부탁드립니다.<br>",
-    "config.modal.fblogin.error.2":             "<li>크리에이터링크 로그인 창에서 \"비밀번호를 잊으셨나요?\"를 클릭합니다.</li><li>비밀번호 재설정에서 페이스북 계정에 등록된 이메일 주소와 보안 문자를 입력합니다.</li><li>\"Reset Password\" 버튼을 클릭하여 재설정 메일을 발송합니다.</li><li>입력한 메일의 메일함에서 재설정 메일을 확인하여 비밀번호를 설정합니다.</li><li>크리에이터링크 로그인 창에서 이메일 주소와 비밀번호를 입력하여 로그인합니다.</li>",
+    "config.modal.fblogin.error.2":             "<li>로그인 창에서 \"비밀번호를 잊으셨나요?\"를 클릭합니다.</li><li>비밀번호 재설정에서 페이스북 계정에 등록된 이메일 주소와 보안 문자를 입력합니다.</li><li>\"Reset Password\" 버튼을 클릭하여 재설정 메일을 발송합니다.</li><li>입력한 메일의 메일함에서 재설정 메일을 확인하여 비밀번호를 설정합니다.</li><li>로그인 창에서 이메일 주소와 비밀번호를 입력하여 로그인합니다.</li>",
     "config.modal.fblogin.error.3":             "본의 아니게 이용에 불편을 드린 점 사과드립니다.<br><br>기타 문의가 있는 경우 아래의 \"문의하기\" 또는 \"help@creatorlink.net\"으로 문의주시길 바랍니다.<br>감사합니다.",
     
     "config.modal.fblogin.error.4":             "페이스북 과의 연결이 원활하지 않아 현재 점검 중에 있습니다.<br class=\"hidden-xs\">빠른 시일안에 정상적으로 로그인이 이용할 수 <br>있도록 노력하겠습니다.<br><br>페이스북 계정으로 로그인하여 이용을 하셨던 경우에는 아래와 같은 방법으로 비밀번호를 <br>생성하여 로그인해주시기 부탁드립니다.<br>",
-    "config.modal.fblogin.error.5":             "<li>크리에이터링크 로그인 창에서 \"비밀번호 찾기\"를 클릭합니다.</li><li>비밀번호 재설정에서 페이스북 계정에 등록된 이메일 주소와 보안 문자를 입력합니다.</li><li>\"안내메일 전송\" 버튼을 클릭하여 재설정 메일을 발송합니다.</li><li>입력한 메일의 메일함에서 재설정 메일을 확인하여 비밀번호를 설정합니다.</li><li>크리에이터링크 로그인 창에서 이메일 주소와 비밀번호를 입력하여 로그인합니다.</li>",
+    "config.modal.fblogin.error.5":             "<li>로그인 창에서 \"비밀번호 찾기\"를 클릭합니다.</li><li>비밀번호 재설정에서 페이스북 계정에 등록된 이메일 주소와 보안 문자를 입력합니다.</li><li>\"안내메일 전송\" 버튼을 클릭하여 재설정 메일을 발송합니다.</li><li>입력한 메일의 메일함에서 재설정 메일을 확인하여 비밀번호를 설정합니다.</li><li>로그인 창에서 이메일 주소와 비밀번호를 입력하여 로그인합니다.</li>",
     "config.modal.instagram.error.1":           "인스타그램(페이스북)과의 연결이 <br>원활하지 않아 현재 점검 중에 있습니다.<br><br>최대한 빨리 조치를 하여 <br>이용에 불편함이 없도록 하겠습니다.<br><br>이용에 불편을 드려 대단히 죄송합니다.",
 
     "Nanum-Gothic":                             "나눔고딕",
@@ -1934,7 +1934,7 @@ $.lang['ko'] = {
     "domain.connect.success.info":              "아래의 네임서버 정보를 도메인 업체에 등록하세요.<br>올바른 네임서버를 입력했다면 내 도메인은 48시간 이내에 연결됩니다.",
     "domain.connect.success.info.add.1":        "도메인을 구매하신 업체의 사이트에서 하단의 네임서버정보로 변경하시면 도메인 연결이 완료됩니다.",
     "domain.connect.success.info.add.2":        "* 네임서버 변경 후 정상 연결 및 안정화되기까지 최대 48시간이 소요됩니다.<br>  안정화되는 동안 일부 환경에서 사이트 화면이 제대로 불러오지 못하거나 연결이 불안정할 수 있습니다.",
-    "domain.connect.success.info.mx.1":         "기존에 도메인을 메일 주소로 사용하고 있었다면, 크리에이터링크에 MX레코드 정보를 다시 등록 해주어야 합니다.<br>MX레코드를 등록하지 않고 네임서버를 변경하면, 도메인과 메일 서비스 연결이 끊겨 메일이 송수신 되지 않을 수 있습니다.<br>사용하고 있는 메일 서비스에서 MX레코드 정보를 확인 후 <a class='link' href='/help' target='_blank'>1:1 문의 게시판</a>으로 요청 주시기 바랍니다.",
+    "domain.connect.success.info.mx.1":         "",
     "domain.connect.success.info.btn":          "대시보드로 가기",
     "domain.connect.dns.server.title":          "네임서버", 
     "domain.connect.dns.server.1":              " 차 서버", 
@@ -2048,7 +2048,7 @@ $.lang['ko'] = {
     "plan.disk-space.limit.info":               "사용용량이 초과되었습니다. 업그레이드하여 용량을 추가하세요.",
     "plan.disk-space.limit.info.lang":          "다국어 사이트를 포함한 총 사용 용량이 초과되었습니다. 업그레이드하여 용량을 추가해주세요.",
     "plan.traffice-space.limit.modal.title":    "월 트래픽 초과 시 뜨는 배너이며, 사이트를 업그레이드하면 사라집니다.", 
-    "plan.traffice-space.limit.modal.text":     "이 사이트는 크리에이터링크로 제작되었습니다. <span>나만의 웹사이트를 무료로 만들어보세요</span>", 
+    "plan.traffice-space.limit.modal.text":     "", 
     "plan.traffice-space.limit.modal.text.gabia":"해당 사이트의 트래픽이 초과되었습니다.  <br class='visible-xs'>유료 상품으로 전환해 주시기 바랍니다.", 
     "plan.upgrade.makesite":                    "사이트를 먼저 생성해 주세요.", 
 
@@ -2906,7 +2906,7 @@ $.lang['ko'] = {
     "dashboard.kakaotalk.notice.guide.step.3.4.contents": "입력한 정보를 확인한 뒤 <span class='guide_bold'>신청 버튼</span>을 클릭해 주세요.<br>(업체명과 채널 이름이 다른 경우 참고 사유 및 자료를 첨부해 주세요.)",
     "dashboard.kakaotalk.notice.guide.step.3.5.contents": "마지막으로 개인정보 수집 및 이용에 동의한 뒤 <span class='guide_bold'>확인 버튼</span>을 클릭해 주시면 <br class='hidden-xs'>비즈니스 채널 신청이 완료됩니다.",
     "dashboard.kakaotalk.notice.guide.step.3.6.contents": "<span class='guide_important'>(심사는 3~5영업일이 소요되며, 심사결과는 카카오톡과 관리자센터 알림으로 <br class='hidden-xs'>안내됩니다.)</span>",
-    "dashboard.kakaotalk.notice.guide.step.4.1.contents": "크리에이터링크의 <span class='guide_bold'>쇼핑 > 쇼핑설정 > 알림톡/메일 메뉴</span>에서 <br class='hidden-xs'><span class='guide_bold'>등록하기 버튼</span>을 클릭해 주세요.",
+    "dashboard.kakaotalk.notice.guide.step.4.1.contents": "",
     "dashboard.kakaotalk.notice.guide.step.4.2.contents": "카카오톡 채널을 개설할 때 입력했던 정보와 동일하게 <br class='hidden-xs'>내용을 입력한 후, <span class='guide_bold'>등록하기 버튼</span>을 클릭해 주세요.",
     "dashboard.kakaotalk.notice.guide.step.4.3.contents": "<span class='guide_important'>※ 휴대폰 번호는 카카오톡 채널을 개설할 때 사용했던 <br class='hidden-xs'>카카오 계정의 휴대폰 번호를 입력해 주세요.</span>",
     "dashboard.kakaotalk.notice.guide.step.4.4.contents": "마지막으로 오른쪽 상단에 있는 <span class='guide_bold'>저장 버튼</span>을 클릭하면 <br class='hidden-xs'>카카오 알림톡 연동이 완료됩니다.",
@@ -2940,7 +2940,7 @@ $.lang['ko'] = {
 
     //2
     "dashboard.socialLogin.naver.guide.step.2.1.contents": "애플리케이션 정보의 <span class='guide_bold'>Client ID</span>와 <span class='guide_bold'>Client Secret</span> 값을 복사해 주세요.<br>이 때, Client Secret 값은 <span class='guide_bold'>보기</span> 버튼을 클릭한 뒤 복사해 주세요.",    
-    "dashboard.socialLogin.naver.guide.step.2.2.1.contents": "<span class='guide_important'>④</span><div class='guidelistBox'>크리에이터링크의 네이버 로그인 설정 항목에서 복사한 <span class='guide_bold'>Client ID</span>와 <span class='guide_bold'>Client Secret</span> 값을 붙여넣어 주세요.</div>", 
+    "dashboard.socialLogin.naver.guide.step.2.2.1.contents": "<span class='guide_important'>④</span><div class='guidelistBox'>", 
     "dashboard.socialLogin.naver.guide.step.2.2.2.contents": "<span class='guide_important'>⑤</span><div class='guidelistBox'>사용을 선택해 주세요.</div>",
     "dashboard.socialLogin.naver.guide.step.2.2.3.contents": "<span class='guide_important'>③</span><div class='guidelistBox'>저장 버튼을 클릭해 주세요.</div>",
 
@@ -3000,7 +3000,7 @@ $.lang['ko'] = {
 
     //3
     "dashboard.socialLogin.kakao.guide.step.3.1.contents": "<span class='guide_bold'>앱 키</span> 메뉴로 이동한 뒤 <span class='guide_bold'>네이티브 앱 키</span>와 <span class='guide_bold'>REST API 키</span>를 복사해 주세요. ",    
-    "dashboard.socialLogin.kakao.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>크리에이터링크의 카카오 로그인 설정 항목에서 복사한 <span class='guide_bold'>네이티브 앱 키</span>와 <span class='guide_bold'>REST API 키</span>를 붙여넣어 주세요.</div>",
+    "dashboard.socialLogin.kakao.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>",
     "dashboard.socialLogin.kakao.guide.step.3.2.2.contents": "<span class='guide_important'>②</span><div class='guidelistBox'><span class='guide_bold'>사용</span>을 선택해 주세요.</div>",
     "dashboard.socialLogin.kakao.guide.step.3.2.3.contents": "<span class='guide_important'>③</span><div class='guidelistBox'>마지막으로 <span class='guide_bold'>저장</span> 버튼을 클릭해 주시면 카카오 로그인 설정이 완료됩니다.</div>",
 
@@ -3029,7 +3029,7 @@ $.lang['ko'] = {
     "dashboard.share.kakaolink.guide.step.2.3.2.contents": "<span class='guide_important'>②</span><div class='guidelistBox'>도메인을 입력한 뒤 <span class='guide_bold'>저장</span> 버튼을 클릭해 주세요.</div>",
     //3
     "dashboard.share.kakaolink.guide.step.3.1.contents": "<span class='guide_bold'>앱 키</span> 메뉴로 이동한 뒤 <span class='guide_bold'>JavaScript 키</span>를 복사해 주세요. ",    
-    "dashboard.share.kakaolink.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>크리에이터링크 관리자 페이지의 <span class='guide_bold'>상세설정 &gt; 카카오 앱 &gt; 카카오링크 설정 항목</span>에서 복사한 <span class='guide_bold'>JavaScript 키</span>를 붙여넣은 뒤 <span class='guide_bold'>체크</span> 버튼을 클릭해 주세요.</div>",
+    "dashboard.share.kakaolink.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>",
     "dashboard.share.kakaolink.guide.step.3.2.2.contents": "<span class='guide_important'>②</span><div class='guidelistBox'>갤러리/게시판 블럭에서 카카오링크로 공유를 원하는 경우, <span class='guide_bold'>카카오링크 사용을 활성화</span>해 주세요.</div>",
     "dashboard.share.kakaolink.guide.step.3.2.3.contents": "<span class='guide_important'>③</span><div class='guidelistBox'>카카오 지도는 지도 블럭에서 활성화되어 이용이 가능합니다.</div>",
 
@@ -3074,7 +3074,7 @@ $.lang['ko'] = {
     "dashboard.naverapp.guide.step.3.3.contents": "AI·NAVER API의 <span class='guide_bold'>관리하기</span> 버튼을 클릭해 주세요.",
     "dashboard.naverapp.guide.step.3.4.contents": "등록된 App의 <span class='guide_bold'>인증 정보</span> 버튼을 클릭해 주세요.",
     "dashboard.naverapp.guide.step.3.5.contents": "<span class='guide_bold'>Client id</span> 키를 복사합니다.",
-    "dashboard.naverapp.guide.step.3.6.contents": "크리에이터링크에서 <span class='guide_bold'>상세설정 &gt; 네이버 앱</span> 메뉴로 이동해 주세요.",
+    "dashboard.naverapp.guide.step.3.6.contents": "",
     "dashboard.naverapp.guide.step.3.7.contents": "<span class='guide_bold'>Client id</span> 항목에 복사한 키값을 붙여넣어 주시면 앱 키 적용이 완료됩니다.",
 
     //google social login 가이드
@@ -3119,7 +3119,7 @@ $.lang['ko'] = {
 
     //3
     "dashboard.socialLogin.google.guide.step.3.1.contents": "<span class='guide_bold'>클라이언트 ID</span>와 <span class='guide_bold'>클라이언트 보안 비밀번호</span>를 복사해 주세요.",    
-    "dashboard.socialLogin.google.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>크리에이터링크의 구글 로그인 설정 항목에서 복사한 <span class='guide_bold'>클라이언트 ID</span>와 <span class='guide_bold'>클라이언트 보안 비밀번호</span>를 붙여넣어 주세요.</div>",
+    "dashboard.socialLogin.google.guide.step.3.2.1.contents": "<span class='guide_important'>①</span><div class='guidelistBox'>",
     "dashboard.socialLogin.google.guide.step.3.2.2.contents": "<span class='guide_important'>②</span><div class='guidelistBox'><span class='guide_bold'>사용</span>을 선택해 주세요.</div>",
     "dashboard.socialLogin.google.guide.step.3.2.3.contents": "<span class='guide_important'>③</span><div class='guidelistBox'>마지막으로 <span class='guide_bold'>저장</span> 버튼을 클릭해 주시면 구글 로그인 설정이 완료됩니다.</div>",
 
@@ -3214,11 +3214,11 @@ $.lang['ko'] = {
     "admin.npay.status.date.RH":                  "승인 보류 날짜",
 
 
-    "footer.made-mark.description.1":            "이 사이트는 <strong>크리에이터링크</strong>로 <br>제작되었습니다.",
-    "footer.made-mark.description.2":            "<span class=\"hidden-xs\">당신도 </span><strong>크리에이터링크</strong>에서 <br>멋진 사이트를 만들어 보세요!",
-    "footer.made-mark.description.gabia.1":      "이 사이트는 <strong>가비아 크리에이터링크</strong>로 <br>제작되었습니다.",
-    "footer.made-mark.description.gabia.2":      "이 사이트는 <strong>가비아 크리에이터링크</strong>로 <br>제작되었습니다.",
-    "footer.made-mark.description.title":        "사이트 업그레이드 시 배너가 사라집니다.",
+    "footer.made-mark.description.1":            "",
+    "footer.made-mark.description.2":            "",
+    "footer.made-mark.description.gabia.1":      "",
+    "footer.made-mark.description.gabia.2":      "",
+    "footer.made-mark.description.title":        "",
 
     "error.404.block.h1":                        "존재하지 않는 페이지입니다.",
     "error.404.block.h3":                        "404 ERROR",

@@ -2516,7 +2516,7 @@ str+=tab.charAt((triplet>>6*(3-j))&0x3F);}}return str;}}
                 "BN" : $.lang[LANG]['pay.plan.BN.name'],
                 "SM" : $.lang[LANG]['pay.plan.SM.name']
             },
-            prod_brand = (lang == 'ko') ? '크리에이터링크' : 'creatorlink',
+            prod_brand = (lang == 'ko') ? '밸런스플레이' : 'balanceplay',
             prod_currency = (lang == 'ko') ? 'KRW' : 'USD',
             prod_action = '', prod_step = 1;
 
